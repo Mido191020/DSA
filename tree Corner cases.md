@@ -1,0 +1,4 @@
+- Empty tree
+- Single node
+- Two nodes
+- Very skewed tree (like a linked list)

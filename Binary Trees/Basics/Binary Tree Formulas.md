@@ -1,0 +1,2 @@
+Perfect tree: From height find # nodes! ● Each level (0-based) has 2level nodes (2 * previous level nodes). ● For N levels: 20 + 21 + 22 + 23 + ….. + 2level = 2levels - 1 = 2h+1 - 1 nodes
+h=log(nodes number+1)-1

@@ -1,0 +1,6 @@
+[[Binary search Tree imeags]]
+[[Binary search Tree insert]]
+[[Binary search Tree find]]
+[[Binary search Tree find Parent]]
+[[Binary search Tree delete]]
+[[Binary search Tree code]]
